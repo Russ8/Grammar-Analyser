@@ -4,5 +4,4 @@
 Repository for the paper:    
 "The Effect of Grammatical Correctness for Stack Overflow Question Success"  
 
-[View the paper with the above file:  "The Effect of Grammatical Correctness for Stack Overflow.pdf](Grammar-Analyser/The Effect of Grammatical Correctness for Stack Overflow.pdf)
-" 
+The paper is contained in the base directory of this repository as:  "The Effect of Grammatical Correctness for Stack Overflow.pdf
